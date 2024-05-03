@@ -1,0 +1,111 @@
+{
+  "_meta": {
+    "maxChars": {
+
+    }
+  },
+    "en": {
+        "_stop_": " ",
+
+        "New Game": "New Game",
+        "Continue": "Continue",
+
+        "CAMPAIGN": "CAMPAIGN",
+        "SCORE ATTACK": "SCORE ATTACK",
+
+        "SELECT LEVEL": "SELECT LEVEL",
+        "RETURN TO MENU": "RETURN TO MENU",
+
+        "level_text": "LEVEL",
+        "wave_text": "Wave",
+        "of_text": "of",
+
+        "BUILD": "BUILD",
+
+        "fast_reload_upgrade": "FAST",
+        "fire_upgrade": "FIRE",
+        "ice_upgrade": "ICE",
+
+        "YOU EARNED": "YOU EARNED",
+        "OK": "OK",
+
+        "WAVE CLEARED": "WAVE CLEARED",
+        "wave_cleared_popup_claim_rewards_text": "CLAIM YOUR REWARDS!",
+        "BEGIN NEXT WAVE": "BEGIN NEXT WAVE",
+
+        "wrong_answer_text": "Better luck next time!",
+
+        "gems": "Gems",
+
+        "bank_shot_text": "BANK SHOT!",
+        "combo_text": "COMBO!",
+
+        "DEFEAT!": "DEFEAT!",
+        "lose_popup_body_text": "Answer a question to retry this wave, or exit to the level select screen.",
+        "QUIT LEVEL": "QUIT LEVEL",
+        "retry_button_text": "RETRY",
+
+        "LEVEL COMPLETE!": "LEVEL COMPLETE!",
+        "waves_cleared_text": "Waves cleared",
+        "enemies_defeated_text": "Enemies defeated",
+        "balls_pocketed_text": "Balls pocketed",
+        "total_gems_text": "Total gems",
+
+        "LEVEL SELECT": "LEVEL SELECT",
+        "NEXT LEVEL": "NEXT LEVEL",
+        "RESTART LEVEL": "RESTART LEVEL",
+
+        "END RUN": "END RUN",
+        "NEXT WAVE": "NEXT WAVE",
+
+        "Quit Level?": "Quit Level?",
+        "quit_level_popup_body_text": "All progress on this level will be lost.",
+        "CANCEL": "CANCEL",
+
+        "End Run?": "End Run?",
+        "end_run_popup_body_text": "This will end the current Score Attack.",
+
+        "score_attack_unlock_1": "Complete level 1\nto unlock!",
+        "score_attack_unlock_2": "Complete level 3\nto unlock!",
+        "score_attack_unlock_3": "Complete level 5\nto unlock!",
+        "score_attack_unlock_4": "Complete level 7\nto unlock!",
+        "score_attack_unlock_5": "Complete level 9\nto unlock!",
+
+
+        "BOSS": "BOSS",
+
+        "tutorial1": "Click the button to\nbuild a turret!",
+        "tutorial2": "Place turret\non the table!",
+        "tutorial3": "Pull back to aim,\nrelease to fire!",
+        "tutorial4": "Click the turret to\npurchase upgrades!",
+
+        "popup_upgrade_title": "UPGRADE UNLOCKED!",
+        "popup_enemy_title": "ENEMY PROFILE",
+        "popup_power_title": "POWER UNLOCKED!",
+        "popup_warning_title": "WARNING!",
+
+        "fireball_name": "Fireball",
+        "iceball_name": "Frostball",
+        "fire_power_name": "Firestorm",
+        "ice_power_name": "Blizzard",
+
+        "fireball_description": "Roast multiple foes with this fiery blast!",
+        "iceball_description": "Slow an enemy with this icy shot!",
+        "fire_power_description": "Unleash a rain of fire on enemy hordes!",
+        "ice_power_description": "Summon frigid winds to bring enemies\nto an icy crawl!",
+
+        "warning_boss": "boss",
+
+        "tinywing_description": "tinywing",
+        "barb_description": "barb",
+        "prickles_description": "prickles",
+        "creeper_description": "creeper",
+        "creeply_description": "creeply"
+
+
+
+
+
+
+    }
+}
