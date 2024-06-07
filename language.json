@@ -10,6 +10,16 @@
         "New Game": "New Game",
         "Continue": "Continue",
 
+        "Game Settings": "Game Settings",
+        "RESET": "RESET",
+
+        "reset_game_popup_title_text": "Reset Game Data?",
+        "reset_game_popup_body_text": "All game progress will be erased.",
+        "RESET GAME": "RESET GAME",
+
+        "reset_complete_popup_title_text": "Reset Complete",
+        "reset_complete_popup_body_text": "All game progress has been reset.",
+
         "CAMPAIGN": "CAMPAIGN",
         "SCORE ATTACK": "SCORE ATTACK",
 
@@ -21,6 +31,7 @@
         "of_text": "of",
 
         "BUILD": "BUILD",
+        "PAUSE": "PAUSE",
 
         "fast_reload_upgrade": "FAST",
         "fire_upgrade": "FIRE",
@@ -58,6 +69,10 @@
         "END RUN": "END RUN",
         "NEXT WAVE": "NEXT WAVE",
 
+        "PAUSED": "PAUSED",
+        "QUIT": "QUIT",
+        "RESUME": "RESUME",
+
         "Quit Level?": "Quit Level?",
         "quit_level_popup_body_text": "All progress on this level will be lost.",
         "CANCEL": "CANCEL",
@@ -70,6 +85,7 @@
         "score_attack_unlock_3": "Complete level 5\nto unlock!",
         "score_attack_unlock_4": "Complete level 7\nto unlock!",
         "score_attack_unlock_5": "Complete level 9\nto unlock!",
+        "Coming soon!": "Coming soon!",
 
 
         "BOSS": "BOSS",
@@ -92,19 +108,7 @@
         "fireball_description": "Roast multiple foes with this fiery blast!",
         "iceball_description": "Slow an enemy with this icy shot!",
         "fire_power_description": "Unleash a rain of fire on enemy hordes!",
-        "ice_power_description": "Summon frigid winds to bring enemies\nto an icy crawl!",
-
-        "warning_boss": "boss",
-
-        "tinywing_description": "tinywing",
-        "barb_description": "barb",
-        "prickles_description": "prickles",
-        "creeper_description": "creeper",
-        "creeply_description": "creeply"
-
-
-
-
+        "ice_power_description": "Summon frigid winds to bring enemies\nto an icy crawl!"
 
 
     }
