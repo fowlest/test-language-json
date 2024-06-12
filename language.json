@@ -93,7 +93,15 @@
         "tutorial1": "Click the button to\nbuild a turret!",
         "tutorial2": "Place turret\non the table!",
         "tutorial3": "Pull back to aim,\nrelease to fire!",
-        "tutorial4": "Click the turret to\npurchase upgrades!",
+        "tutorial4": "Stop the beasties from\ngetting to the other side!",
+        "tutorial5": "Beasties that make it across\nwill reduce your health!",
+        "tutorial6": "Hit the question marks\nfor big bonuses!",
+
+        "tutorial2_1": "Click the turret to\npurchase upgrades!",
+
+        "tutorial3_1": "Hit balls into pockets\nto score gems!",
+        "tutorial3_2": "Glowing pockets give\nextra bonuses!",
+
 
         "popup_upgrade_title": "UPGRADE UNLOCKED!",
         "popup_enemy_title": "ENEMY PROFILE",
