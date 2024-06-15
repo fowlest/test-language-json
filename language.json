@@ -100,8 +100,12 @@
         "tutorial2_1": "Click the turret to\npurchase upgrades!",
 
         "tutorial3_1": "Hit balls into pockets\nto score gems!",
-        "tutorial3_2": "Glowing pockets give\nextra bonuses!",
+        "tutorial3_2": "Glowing pockets give\nbig bonuses!",
+        "tutorial3_3": "Make bank shots and combos\nfor even more gems!",
 
+        "tutorial4_1": "Don't forget to upgrade\nyour turrets!",
+
+        "tutorial6_1": "Use powers to help you\nget out of difficult situations!",
 
         "popup_upgrade_title": "UPGRADE UNLOCKED!",
         "popup_enemy_title": "ENEMY PROFILE",
